@@ -1,0 +1,13 @@
+
+
+#boton_descarga{
+
+
+    background: #26b4ff;
+    border: none;
+    padding: 10px 40px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    outline: none;
+}
